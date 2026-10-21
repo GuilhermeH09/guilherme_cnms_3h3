@@ -45,3 +45,7 @@ def ler_porta_serial():
         print("Verifique a porta está correta")
         time.sleep(INTERVALO)
         print("Tentando Conectar...")
+
+        HTML_TEMPLATE = """ 
+        
+        """
