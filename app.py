@@ -15,7 +15,7 @@ dados_sensor = {
     "ultima_valor_gravado":"--"
 }
 
-PORTA_SERIAL = 'COM7'
+PORTA_SERIAL = 'COM8'
 BAUD_RATE = 9600
 INTERVALO = 5
 
